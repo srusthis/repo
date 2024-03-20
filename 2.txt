@@ -1,0 +1,6 @@
+Registration Page
+create new account 
+email :
+code :
+password :
+confirm password :
